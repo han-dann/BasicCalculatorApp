@@ -1,6 +1,7 @@
+# Python Basic Calulator
 This repository contains a simple Python program that serves as a basic calculator. The calculator program allows users to perform common arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
+# Features
 
 - User-Friendly Interface: The calculator program provides a user-friendly command-line interface, making it easy for users to input their calculations and receive the results.
 - Addition: Users can add two or more numbers by entering them as input to the program. The calculator will display the sum of the numbers.
@@ -18,7 +19,7 @@ Usage
 - The calculator will display the result of the operation.
 - To exit the program, press Ctrl+C or follow any additional instructions provided in the interface.
 
-Examples
+# Examples
 
 Addition:
 
@@ -32,10 +33,10 @@ Division:
 
 <img width="538" alt="Screenshot 2023-06-10 at 8 09 43 AM" src="https://github.com/han-dann/BasicCalculatorApp/assets/98670479/1b9c5bc2-0e27-4576-afcf-b1b50612d907">
 
-License
+# License
 This project is licensed under the MIT License. Feel free to modify and distribute it as per the terms of the license.
 
-Acknowledgments
+# Acknowledgments
 This program was developed using Python, a versatile and widely-used programming language.
 Special thanks to the developers and contributors of the Python community for their continuous support and resources.
 Please feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Enjoy using the basic calculator program!
